@@ -20,7 +20,7 @@ A passionate Full-Stack developer from **India**
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"/>
     </a>
     <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Naukri_Logo.png" width="50" height="50"/>
+        <img src="https://static.naukimg.com/s/4/100/i/naukri_Logo.png" width="50" height="50"/>
     </a>
 </p>
 
