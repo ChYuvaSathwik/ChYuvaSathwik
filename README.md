@@ -9,10 +9,20 @@ A passionate Full-Stack developer from **India**
 - 📧 Reach me at [sathwikprince2004@gmail.com](mailto:sathwikprince2004@gmail.com)  
 
 ## Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yuva82144?t=sMlct4hPSQDTTh4jKNbryg&s=09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwikchinta/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prince_sathwik/?hl=en)
-[![Naukri](https://img.shields.io/badge/Naukri-0056D2?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+<p align="left">
+    <a href="https://x.com/yuva82144?t=sMlct4hPSQDTTh4jKNbryg&s=09" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sathwikchinta/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+    </a>
+    <a href="https://www.instagram.com/prince_sathwik/?hl=en" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"/>
+    </a>
+    <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Naukri_Logo.png" width="50" height="50"/>
+    </a>
+</p>
 
 ## Languages and Tools:
 <p align="left">
