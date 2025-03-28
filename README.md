@@ -19,8 +19,8 @@ A passionate Full-Stack developer from **India**
     <a href="https://www.instagram.com/prince_sathwik/?hl=en" target="_blank" style="margin-right: 15px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"/>
     </a>
-    <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank" style="margin-right: 15px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Naukri.com_logo.png" width="50" height="50"/>
+    <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
+        <img src="https://static.naukimg.com/s/4/100/i/naukri_Logo.png" width="50" height="50"/>
     </a>
 </p>
 
@@ -33,3 +33,5 @@ A passionate Full-Stack developer from **India**
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" height="50" style="margin-right: 15px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50"/>
 </p>
+
+
