@@ -5,7 +5,7 @@ A passionate Full-Stack developer from **India**
 - 🚀 Currently working on **Freelancing and Open Source Projects**  
 - 🌱 Currently learning **Full Stack Development**  
 - 🥳 Looking to collaborate with **Developers and Open Source Contributors**  
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Flask, Django, MySQL, AWS, DSA, Operating Systems, and Computer Networking**  
+- 💬 Ask me about **HTML, CSS, JavaScript, Python,Java, Flask, Django, MySQL, AWS, DSA, Operating Systems, and Computer Networking**  
 - 📧 Reach me at [sathwikprince2004@gmail.com](mailto:sathwikprince2004@gmail.com)  
 
 ## Connect with me:
