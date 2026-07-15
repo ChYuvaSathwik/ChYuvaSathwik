@@ -1,37 +1,103 @@
 # Hi 👋, I'm Sathwik Chinta
 
-A passionate Full-Stack developer from **India**  
+## 🎓 Aspiring Software Developer | Python | Java | SQL
 
-- 🚀 Currently working on **Freelancing and Open Source Projects**  
-- 🌱 Currently learning **Full Stack Development**  
-- 🥳 Looking to collaborate with **Developers and Open Source Contributors**  
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, Flask, Django, MySQL, AWS, DSA, Operating Systems, and Computer Networking**  
-- 📧 Reach me at [sathwikprince2004@gmail.com](mailto:sathwikprince2004@gmail.com)  
+I'm an Electronics and Communication Engineering (ECE) student at **KL University** with a passion for software development and problem solving.
 
-## Connect with me:
-<p align="left">
-    <a href="https://x.com/yuva82144?t=sMlct4hPSQDTTh4jKNbryg&s=09" target="_blank" style="margin-right: 15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50"/>
-    </a>
-    <a href="https://www.linkedin.com/in/sathwikchinta/" target="_blank" style="margin-right: 15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
-    </a>
-    <a href="https://www.instagram.com/prince_sathwik/?hl=en" target="_blank" style="margin-right: 15px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"/>
-    </a>
-    <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-        <img src="https://static.naukimg.com/s/4/100/i/naukri_Logo.png" width="50" height="50"/>
-    </a>
-</p>
+I enjoy building practical projects, improving my programming skills, and learning modern software development technologies. My current focus is on strengthening my Python, Java, SQL, and Data Structures & Algorithms knowledge to prepare for Software Developer roles.
 
-## Languages and Tools:
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin-right: 15px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin-right: 15px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" style="margin-right: 15px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50" height="50" style="margin-right: 15px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" height="50" style="margin-right: 15px;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50"/>
-</p>
+---
 
+## 👨‍💻 About Me
 
+- 🎓 B.Tech ECE Student at KL University (CGPA: **8.73**)
+- 💻 Passionate about Software Development
+- 🌱 Currently learning **Data Structures & Algorithms using Python** and **Core Java**
+- 📚 Exploring software engineering concepts through hands-on projects
+- 🎯 Actively seeking Software Developer and Python Developer opportunities
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+- Python
+- Java
+- SQL
+
+### Database
+- MySQL
+
+### Version Control
+- Git
+- GitHub
+
+### Tools
+- VS Code
+- PyCharm
+- Eclipse
+
+---
+
+## 🚀 Projects
+
+### 🎤 Python Voice Assistant
+
+Developed a desktop voice assistant using Python capable of performing voice-controlled system and web operations.
+
+**Highlights**
+- Speech Recognition
+- Text-to-Speech
+- Application Automation
+- Web Search Automation
+- Modular Python Programming
+
+---
+
+### 📊 SQL Job Market Analysis
+
+Designed a relational database project using MySQL to analyze job market trends and answer real-world business questions.
+
+**Highlights**
+- Database Design
+- SQL Queries
+- Joins
+- Aggregate Functions
+- Data Analysis
+- Normalization
+
+---
+
+## 📜 Certifications
+
+- Infosys – Python Foundation
+- HackerRank – SQL (Basic)
+- LearnQuest (Coursera) – Introduction to Java
+
+---
+
+## 📈 Currently Improving
+
+- Data Structures & Algorithms
+- Java
+- SQL Optimization
+- Problem Solving
+- Software Development
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **2200040158ece@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sathwikchinta/
+
+💻 GitHub:
+https://github.com/ChYuvaSathwik
+
+---
+
+## ⭐ Goal
+
+My goal is to become a skilled Software Engineer by continuously learning, building meaningful projects, and contributing to real-world software solutions.
